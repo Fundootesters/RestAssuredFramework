@@ -9,6 +9,7 @@ public class ParseDynamicJson {
 
 	// How to parse dynamic JSON?
 	// How to parse nested JSON?
+	// Code Explanation : https://www.youtube.com/watch?v=ZjZqLUGCWxo
 
 	public static void parseObject(JSONObject json, String key) {
 		// System.out.println(json.has(key));
