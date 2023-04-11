@@ -27,7 +27,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<testng.version>7.1.0</testng.version>
+		<testng.version>7.7.0</testng.version>
 		<restassured.version>4.2.0</restassured.version>
 	</properties>
 
